@@ -11,11 +11,9 @@ Each Beam model of a different feed is stored in different groups.
 In each group, 
 
   there are two datasets:
-
       the **Beam Model** and the **Fitting Coefficients**;
   
   and five attributions:  
-  
       **FittingRadius**, **max fitting Zernike order**, **the Model Polarization** and two **Coordinate axis bins**.
 
 ## Model usage
